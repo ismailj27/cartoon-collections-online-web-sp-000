@@ -31,5 +31,4 @@ def find_the_cheese(strings)# code an argument here
       strings.include?(cheese)
     end
   end
-  end
 end
