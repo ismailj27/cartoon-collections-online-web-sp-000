@@ -27,7 +27,7 @@ def find_the_cheese(strings)# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese_types.each do |cheese|
-    cheese_types.find do |cheese|
+    cheese_typ.find do |cheese|
       cheese == string
     end
   end
